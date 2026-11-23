@@ -1,0 +1,20 @@
+body {
+    background-color: hwb(254 57% 25%);
+    font-family: decorative, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d3dfe0;
+}
+<h1> {
+    color: #101886;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+<h2> {
+    color: #b92b4f;
+    font-size: 1.25rem;
+    margin-bottom: 15px;
+}
+main {
+    padding: 3rem 2rem;
+}
